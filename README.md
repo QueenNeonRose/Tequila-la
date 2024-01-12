@@ -227,7 +227,7 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Cocktails</h3>
+  <h3> Cocktails </h3>
 
   <div style="margin-bottom: 10px;"></div>
   
@@ -267,142 +267,122 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
-  <div>
-    <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Chicken Wrap - $</label>150
-    <input type="number" value="1" min="1">
-  </div>
-  
-<div>
-    <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Goat Cheese Wrap - $</label>150
-    <input type="number" value="1" min="1">
-  </div>
-  
-<div>
-    <input type="checkbox" id="Davechoice" value="70$">
-    <label for="Davechoice">Fries - $</label>70
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="30$">
-    <label for="Davechoice">BS Bag - $</label>30
-    <input type="number" value="1" min="1">
-  </div>
-   <h3>Beverage</h3>
+   <h3> Non Alcoholic </h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="10$">
-    <label for="Velmachoice">Burger Shot Drink - $</label>10
+    <input type="checkbox" id="uwueats" value="90$">
+    <label for="Velmachoice">Sweet Lemonade - $</label>90
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Mocha Shake - $</label>150
+    <input type="checkbox" id="Davechoice" value="85$">
+    <label for="Davechoice">Coke - $</label>85
     <input type="number" value="1" min="1">
   </div>
- 
- 
-   <h3>Dessert</h3>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="75$">
+    <label for="Davechoice">Energy Drinks - $</label>75
+    <input type="number" value="1" min="1">
+  </div>
+     
+  <div>
+    <input type="checkbox" id="Davechoice" value="75$">
+    <label for="Davechoice">Soda - $</label>75
+    <input type="number" value="1" min="1">
+  </div>
+     
+  <div>
+    <input type="checkbox" id="Davechoice" value="35$">
+    <label for="Davechoice">Water - $</label>35
+    <input type="number" value="1" min="1">
+  </div>
+   
+   <h3> Hard Alcohol </h3>
 
   <div style="margin-bottom: 10px;"></div>
   
  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Meteorite Ice Cream - $</label>200
+    <input type="checkbox" id="Davechoice" value="190$">
+    <label for="Davechoice">Jack Daniels - $</label>190
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Orangotang Ice Cream - $</label>200
+    <input type="checkbox" id="Davechoice" value="165$">
+    <label for="Davechoice">Smirnoff - $</label>165
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="145$">
+    <label for="Davechoice">Puerto Rican Rum - $</label>145
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="130$">
+    <label for="Davechoice">Red Wine - $</label>130
     <input type="number" value="1" min="1">
   </div>
   
   
-   <h3> Burger Shot Meals (Drink,Fries, and Ice Cream)</h3>
+   <h3> Speicalty </h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="500$">
-    <label for="Velmachoice">The Bleeder Meal(Meteorite Ice Cream)- $</label>500
+    <input type="checkbox" id="uwueats" value="300$">
+    <label for="Velmachoice">Spicy Harley- $</label>300
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>500
+    <input type="checkbox" id="Davechoice" value="550$">
+    <label for="Davechoice">Black Rose Thorns- $</label>550
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="750$">
-    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>750
+    <input type="checkbox" id="Davechoice" value="950$">
+    <label for="Davechoice">Green Outs- $</label>950
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>430
+    <input type="checkbox" id="Davechoice" value="1000$">
+    <label for="Davechoice">The Reaper- $</label>1,000
     <input type="number" value="1" min="1">
   </div>
 
-  <div>
-    <input type="checkbox" id="Davechoice" value="425$">
-    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>425
+   
+  <h3> VIP Treatment </h3>
+   <div>
+    <input type="checkbox" id="Davechoice" value="1500$">
+    <label for="Davechoice">Tier 1: Upstairs: Comes with 25% all drinks - $</label>1500
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Chicken Wrap Meal(Orangotang Ice Cream)- $</label>430
-    <input type="number" value="1" min="1">
-  </div>
-  
-   <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Goat Cheese Wrap Meal(Meteorite Ice Cream)- $</label>430
-    <input type="number" value="1" min="1">
-  </div>
-  
-
-   
-  <h3>Specials</h3>
-   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">5k Special - $</label>5000
-    <input type="number" value="1" min="1">
-  </div>
-
-   <h3>Special Events</h3>
-   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Small Event - $</label>5000
+    <input type="checkbox" id="Davechoice" value="1850$">
+    <label for="Davechoice">Tier 2: Downstairs: Comes with 50% off all drinks and a joint - $</label>1850
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="10000$">
-    <label for="Davechoice">Medium Event - $</label>10000
+    <input type="checkbox" id="Davechoice" value="3500$">
+    <label for="Davechoice">Tier 3: Both: Comes with Free Drinks and 2 joints - $</label>3500
     <input type="number" value="1" min="1">
   </div>
- 
-  <div>
-    <input type="checkbox" id="Davechoice" value="20000$">
-    <label for="Davechoice">Big Event - $</label>20000
-    <input type="number" value="1" min="1">
-  </div>
-    
+
   
 
 <div style="margin-bottom: 10px;"></div>
   
-  <h3> Discount Items</h3> 
+  <h3> Discounts </h3> 
 
 <div>
   <input type="checkbox" id="50off" value="-50%">
@@ -411,25 +391,17 @@ function resetCalculator() {
 </div>
 
 <div>
-  <input type="checkbox" id="30off" value="-25%">
-  <label for="30off">HOLIDAY SPECIAL - 25% off</label>
+  <input type="checkbox" id="30off" value="-15%">
+  <label for="30off">GrimReaper Discount - 15% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
 <div>
-  <input type="checkbox" id="25off" value="-30%">
-  <label for="25off">Mechs/PD & EMS - 30% off</label>
+  <input type="checkbox" id="25off" value="-25%">
+  <label for="25off">Mechs/PD & EMS - 25% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
-<h3> Delivery </h3>
-  
-  <div>
-    <input type="checkbox" id="ColinChoice" value="1000"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Delivery Fee - $</label>1000
-    <input type="number" value="1" min="1">
-  </div>
-  
 
   
   <div style="margin-bottom: 25px;"></div>
