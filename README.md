@@ -256,14 +256,14 @@ function resetCalculator() {
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="145$">
-    <label for="Davechoice">The Prickly - $</label>145
+    <input type="checkbox" id="Davechoice" value="100$">
+    <label for="Davechoice">Shots of Vodka - $</label>100
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="95$">
-    <label for="Davechoice">Taco - $</label>95
+    <input type="checkbox" id="Davechoice" value="100$">
+    <label for="Davechoice">Whiskey Glass - $</label>100
     <input type="number" value="1" min="1">
   </div>
 
