@@ -227,31 +227,31 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Food</h3>
+  <h3>Cocktails</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="160$">
-    <label for="Velmachoice">The Bleeder - $</label>160
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="160$">
-    <label for="Davechoice">Double Shot - $</label>160
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="440$">
-    <label for="Davechoice">Heart Stopper - $</label>440
+    <input type="checkbox" id="uwueats" value="150$">
+    <label for="Velmachoice">Maniac Mimosa - $</label>150
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Simple Burger - $</label>150
+    <label for="Davechoice">Cool Coladas - $</label>150
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="185$">
+    <label for="Davechoice">Bloody Mary - $</label>185
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="250$">
+    <label for="Davechoice">Jagerbomb - $</label>250
     <input type="number" value="1" min="1">
   </div>
 
